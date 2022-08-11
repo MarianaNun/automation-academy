@@ -1,0 +1,6 @@
+behave
+PyHamcrest
+python-dotenv
+ConfigParser
+selenium
+paver
